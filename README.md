@@ -1,16 +1,26 @@
-## Hi there 👋
+# Reza Hasanzadeh Ghasemi
 
-<!--
-**Reza-Hasanzadeh-Ghasemi/Reza-Hasanzadeh-Ghasemi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Associate Professor | Mechanical Engineering
 
-Here are some ideas to get you started:
+## Research Interests
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Autonomous Navigation
+- GPS-Denied Navigation
+- Visual-Inertial Odometry
+- Inertial Navigation Systems
+- AUV and UAV Navigation
+- SLAM and Sensor Fusion
+- Map-Aided Navigation
+- Underwater Robotics
+
+## Current Research
+
+My research focuses on autonomous navigation and state estimation for aerial and underwater vehicles, with particular emphasis on visual-inertial navigation, inertial sensor fusion, GPS-denied navigation, and autonomous underwater vehicle systems.
+
+## Open-Source Projects
+
+Projects and reproducible implementations related to visual-inertial odometry, autonomous navigation, and AUV/UAV systems will be published here.
+
+## Research Profiles
+
+ORCID: Connected to this GitHub profile
